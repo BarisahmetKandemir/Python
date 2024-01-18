@@ -1,4 +1,4 @@
-kelime = random.choice(["kedi", "köpek", "kaplumbağa", "zürafa", "fil", "kaplan","tırtıl", "atmaca", "kartal", "jaguar", "balina", "yunus"])
+kelime = random.choice(["Aslan", "Zürafa", "Köpek", "Kedi", "Tavşan", "Kaplan", "Fil", "Panda", "Köpekbalığı", "Penguen", "Kanguru", "Devekuşu", "Baykuş", "Kedi", "Denizanası", "Ayı", "Balina", "Zebra", "Leopar", "Sincap", "Gergedan", "At", "Şempanze", "Kartal", "Yılan", "Arı", "Kuzgun", "Köpekbalığı", "Kobra", "Geyik", "Koala", "Timsah", "Goril", "Kurbağa", "Yunus", "Sincap", "Geyik", "Kaplan", "Armadillo", "Salamander", "Kangal", "Vaşak", "Kangal balığı", "Kanguru", "Kukumav", "Fennec tilkisi", "Muflon", "Yarasa", "Tukan"])
 geçerliharfler = "abcdefgğhıijklmnoöpqrstuüvwyz"
 hak = 8
 yapılan_tahmin = ""
